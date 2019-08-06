@@ -1,5 +1,3 @@
-sdfvgergfergft
-
 Update v0.2
   • Correction des derniers bugs sur le PlaySation RPC
   • Ajout du RPC Personnalié accessible dans le menu Application > RPC Personnalisé
