@@ -1,27 +1,27 @@
 {
     "version": "0.0.3",
-    "files": [
-        {
+    "files": {
+        "application": {
             "uri": "https://github.com/EvilBrain/PlayStationRPC/raw/0.0.3/PlayStationDiscordRPC.zip",
             "name": "PlayStationDiscordRPC",
             "extension": ".exe"
         },
-        {
+        "newtonsoft" :{
             "uri": "https://github.com/EvilBrain/PlayStationRPC/raw/0.0.3/Newtonsoft.Json.zip",
             "name": "Newtonsoft.Json",
             "extension": ".dll"
         },
-        {
+        "launcher": {
             "uri": "https://github.com/EvilBrain/PlayStationRPC/raw/0.0.3/PlayStationRPC_Launcher",
             "name": "PlayStationRPC_Launcher",
             "extension": ".exe"
         },
-                {
+        "discordrpc": {
             "uri": "https://github.com/EvilBrain/PlayStationRPC/raw/0.0.3/DiscordRPC.zip",
             "name": "DiscordRPC",
             "extension": ".dll"
         }
-    ],
+    },
     "icon": {
         "uri": "https://github.com/EvilBrain/PlayStationRPC/raw/0.0.3/icon.ico"
     }
