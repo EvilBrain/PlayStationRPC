@@ -1,0 +1,23 @@
+{
+    "version": "0.0.3",
+    "files": [
+        {
+            "uri": "https://github.com/magichitler/MHDesktop/raw/0.1.0/MHDesktop.zip",
+            "name": "MHDesktop",
+            "extension": ".exe"
+        },
+        {
+            "uri": "https://github.com/magichitler/MHDesktop/raw/0.0.1/Newtonsoft.Json.zip",
+            "name": "newtonsoft",
+            "extension": ".dll"
+        },
+        {
+            "uri": "https://github.com/magichitler/MHDesktop/raw/0.1.0/MHDesktopLauncher.zip",
+            "name": "MHDesktopLauncher",
+            "extension": ".exe"
+        }
+    ],
+    "icon": {
+        "uri": "https://github.com/magichitler/MHDesktop/raw/0.1.0/icon.ico"
+    }
+}
