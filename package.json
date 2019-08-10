@@ -2,27 +2,27 @@
     "version": "0.0.3",
     "files": [
         {
-            "uri": "https://github.com/magichitler/MHDesktop/raw/0.0.3/PlayStation DiscordRPC.zip",
+            "uri": "https://github.com/EvilBrain/PlayStationRPC/raw/0.0.3/PlayStation DiscordRPC.zip",
             "name": "PlayStation DiscordRPC",
             "extension": ".exe"
         },
         {
-            "uri": "https://github.com/magichitler/MHDesktop/raw/0.0.3/Newtonsoft.Json.zip",
+            "uri": "https://github.com/EvilBrain/PlayStationRPC/raw/0.0.3/Newtonsoft.Json.zip",
             "name": "Newtonsoft.Json",
             "extension": ".dll"
         },
         {
-            "uri": "https://github.com/magichitler/MHDesktop/raw/0.0.3/PlayStationRPC_Launcher",
+            "uri": "https://github.com/EvilBrain/PlayStationRPC/raw/0.0.3/PlayStationRPC_Launcher",
             "name": "PlayStationRPC_Launcher",
             "extension": ".exe"
         },
                 {
-            "uri": "https://github.com/magichitler/MHDesktop/raw/0.0.3/DiscordRPC.zip",
+            "uri": "https://github.com/EvilBrain/PlayStationRPC/raw/0.0.3/DiscordRPC.zip",
             "name": "DiscordRPC",
             "extension": ".dll"
         }
     ],
     "icon": {
-        "uri": "https://github.com/magichitler/MHDesktop/raw/0.0.3/icon.ico"
+        "uri": "https://github.com/EvilBrain/PlayStationRPC/raw/0.0.3/icon.ico"
     }
 }
