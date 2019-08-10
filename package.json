@@ -12,7 +12,7 @@
             "extension": ".dll"
         },
         {
-            "uri": "https://github.com/EvilBrain/PlayStationRPC/raw/0.0.3/PlayStationRPC_Launcher.zip",
+            "uri": "https://github.com/EvilBrain/PlayStationRPC/raw/0.0.3/PlayStationRPCLauncher.zip",
             "name": "PlayStationRPC_Launcher",
             "extension": ".exe"
         },
