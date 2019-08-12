@@ -1,3 +1,8 @@
+Update v0.3
+  • Création du Setup officiel de l'application !
+  • Ajout de l'updater automatique ! Vous n'aurez qu'à cliquer sur le raccourcis sur votre Bureau !
+  • Ajout du dispositif de report de bugs accessible dans le menu Aide > Signaler un bug
+
 Update v0.2
   • Correction des derniers bugs sur le PlaySation RPC
   • Ajout du RPC Personnalié accessible dans le menu Application > RPC Personnalisé
