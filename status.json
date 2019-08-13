@@ -10,8 +10,14 @@
         "game": "Fortnite",
         "status": [
             "Dans le menu",
-            "En Partie",
-            "Test"
+            "En Partie"
+        ]
+    },
+    {
+        "game": "Call Of Duty",
+        "status": [
+            "In game",
+            "test"
         ]
     }
 ]
