@@ -1,1 +1,16 @@
-
+[
+    {
+        "game": "Grand Theft Auto V",
+        "status": [
+            "Mode Histoire",
+            "GTA Online"
+        ]
+    },
+    {
+        "game": "Fortnite",
+        "status": [
+            "Dans le menu",
+            "En Partie"
+        ]
+    }
+]
