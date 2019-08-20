@@ -3,7 +3,8 @@
         "game": "Grand Theft Auto V",
         "status": [
             "Mode Histoire",
-            "GTA Online"
+            "GTA Online",
+            "Mode Réalisateur"
         ]
     },
     {
@@ -25,6 +26,14 @@
             "En partie PRIVÉE",
             "En chasse aux terroristes",
             "En situation"
+        ]
+    },
+    {
+        "game": "Call of Duty©: Black Ops 4",
+        "status": [
+            "Histoire",
+            "Multijoueur",
+            "Blackout"
         ]
     }
 ]
