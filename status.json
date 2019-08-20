@@ -17,19 +17,19 @@
         ]
     },
     {
-        "game": "Tom Clancy's Rainbow Six© Siege",
+        "game": "Tom Clancy's Rainbow Six Siege",
         "status": [
             "Dans le MENU",
-            "En match (CLASSÉ)",
+            "En match (CLASSE)",
             "En match (SIMPLE)",
             "En match (NOVICE)",
-            "En partie PRIVÉE",
+            "En partie PRIVEE",
             "En chasse aux terroristes",
             "En situation"
         ]
     },
     {
-        "game": "Call of Duty©: Black Ops 4",
+        "game": "Call of Duty: Black Ops 4",
         "status": [
             "Histoire",
             "Multijoueur",
