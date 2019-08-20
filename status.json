@@ -10,7 +10,9 @@
         "game": "Fortnite",
         "status": [
             "Dans le menu",
-            "En Partie"
+            "Battle Royale",
+            "Mode créatif",
+            "Sauver Le Monde"
         ]
     },
     {
@@ -19,6 +21,8 @@
             "Dans le MENU",
             "En match (CLASSÉ)",
             "En match (SIMPLE)",
+            "En match (NOVICE)",
+            "En partie PRIVÉE
             "En chasse aux terroristes",
             "En situation"
         ]
