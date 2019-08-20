@@ -14,10 +14,13 @@
         ]
     },
     {
-        "game": "Call Of Duty",
+        "game": "Tom Clancy's Rainbow Six© Siege",
         "status": [
-            "In game",
-            "test"
+            "Dans le MENU",
+            "En match (CLASSÉ)",
+            "En match (SIMPLE)",
+            "En chasse aux terroristes",
+            "En situation"
         ]
     }
 ]
