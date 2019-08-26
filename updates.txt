@@ -1,3 +1,8 @@
+Update v0.4
+  • Stabilisation de l'application !
+  • Ajout de l'onglet qui vous redirige sur la documentaion officielle accessible dans le menu Aide > Documentation/Aide
+  • Ajout de la blacklist en cas de spam dans le dispositif de signalement de bug
+
 Update v0.3
   • Création du Setup officiel de l'application !
   • Ajout de l'updater automatique ! Vous n'aurez qu'à cliquer sur le raccourcis sur votre Bureau !
