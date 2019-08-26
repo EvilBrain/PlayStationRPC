@@ -36,5 +36,32 @@
             "Multijoueur",
             "Blackout"
         ]
+    },
+    {
+        "game": "Minecraft",
+        "status": [
+            "Solo (CREATIF)",
+            "Solo (SUTVIE)",
+            "Solo (HARDCORE)",
+            "Mini-Jeux,
+            "Multijoueur",
+            "Menu"
+        ]
+    },
+    {
+        "game": "PLAYERUNKNOWN'S BATTLEGROUNDS",
+        "status": [
+            "Solo",
+            "Duo",
+            "Squad",
+            "Menu"
+        ]
+    },
+    {
+        "game": "Apex Legends",
+        "status": [
+            "Squad",
+            "Menu"
+        ]
     }
 ]
