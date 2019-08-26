@@ -1,31 +1,31 @@
 {
-    "version": "0.0.3",
+    "version": "0.0.4",
     "size": "996 Ko",
     "files": [
         {
-            "uri": "https://github.com/EvilBrain/PlayStationRPC/raw/0.0.3/PlayStationDiscordRPC.zip",
+            "uri": "https://github.com/EvilBrain/PlayStationRPC/raw/0.0.4/PlayStationDiscordRPC.zip",
             "name": "PlayStationDiscordRPC",
             "extension": ".exe"
         },
         {
-            "uri": "https://github.com/EvilBrain/PlayStationRPC/raw/0.0.3/Newtonsoft.Json.zip",
+            "uri": "https://github.com/EvilBrain/PlayStationRPC/raw/0.0.4/Newtonsoft.Json.zip",
             "name": "Newtonsoft.Json",
             "extension": ".dll"
         },
         {
-            "uri": "https://github.com/EvilBrain/PlayStationRPC/raw/0.0.3/PlayStationRPCLauncher.zip",
+            "uri": "https://github.com/EvilBrain/PlayStationRPC/raw/0.0.4/PlayStationRPCLauncher.zip",
             "name": "PlayStationRPC_Launcher",
             "extension": ".exe"
         },
         {
-            "uri": "https://github.com/EvilBrain/PlayStationRPC/raw/0.0.3/DiscordRPC.zip",
+            "uri": "https://github.com/EvilBrain/PlayStationRPC/raw/0.0.4/DiscordRPC.zip",
             "name": "DiscordRPC",
             "extension": ".dll"
         }
     ],
     "src" : [
         {
-            "uri": "https://github.com/EvilBrain/PlayStationRPC/raw/0.0.3/icon.zip",
+            "uri": "https://github.com/EvilBrain/PlayStationRPC/raw/0.0.4/icon.zip",
             "name": "icon",
             "extension": ".ico"
         }
