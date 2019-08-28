@@ -70,5 +70,12 @@
             "Menu",
             "En Partie"
         ]
+    },
+    {
+        "game": "Red Dead Redemption II",
+        "status": [
+            "Player",
+            "Story"
+        ]
     }
 ]
